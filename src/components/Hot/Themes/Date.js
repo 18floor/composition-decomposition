@@ -1,7 +1,7 @@
 import React from "react";
 
 /**
- *  DateString -
+ *  DateString - выводит текущую дату
  */
 const DateString = () => {
     return (

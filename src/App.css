@@ -1,10 +1,10 @@
 .App {
-  max-width: 840px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 8px;
 }
 
-.prolog {
+.hot {
   display: flex;
   flex-wrap: wrap;
 }
@@ -13,7 +13,13 @@
   flex-basis: auto;
 }
 
-.ad {
+.news-agency-icon {
+  width: 14px;
+  height: 14px;
+  padding: 5px 5px 0 5px;
+}
+
+.ad__square {
   flex-basis: 0;
   padding: 8px;
 }
